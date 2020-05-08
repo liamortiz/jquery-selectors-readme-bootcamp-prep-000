@@ -3,5 +3,5 @@ paragraphSelector = () => {
 }
 
 lastImageSelector = () => {
-  
+  return $('img').last()
 }
