@@ -15,5 +15,5 @@ divSelector = () => {
 }
 
 firstListItem = () => {
-  return $('ul').first()
+  return $('ul')
 }
