@@ -7,5 +7,13 @@ lastImageSelector = () => {
 }
 
 ninjaBabySelector = () => {
-  return $('#')
+  return $('#baby-ninja')
+}
+
+divSelector = () => {
+  return $('.pics')
+}
+
+firstListItem = () => {
+  return $('#pic-list')
 }
