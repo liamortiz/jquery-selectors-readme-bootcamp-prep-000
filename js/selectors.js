@@ -1,3 +1,7 @@
 paragraphSelector = () => {
   return $('p')
 }
+
+lastImageSelector = () => {
+  
+}
