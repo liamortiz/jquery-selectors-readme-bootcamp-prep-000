@@ -5,3 +5,7 @@ paragraphSelector = () => {
 lastImageSelector = () => {
   return $('img').last()
 }
+
+ninjaBabySelector = () => {
+  return $('#')
+}
